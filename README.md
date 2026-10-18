@@ -11,6 +11,14 @@
 </p>
 
 <p align="center">
+  <img src="https://framerusercontent.com/images/nzMPQyeZcDGIxPMeotVoHQk8oBg.png" alt="Hugo Aguilar" width="160" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  <em>Graduado en Ingeniería Informática y estudiante del Máster Universitario en Inteligencia Artificial en la UPM. Conecto matemáticas aplicadas, algoritmia y modelado de datos con aplicaciones prácticas de Machine Learning y análisis avanzado de datos.</em>
+</p>
+
+<p align="center">
   <a href="https://hugoaguilar.framer.website" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white&labelColor=111111" alt="Portfolio"/>
   </a>
